@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+implicit
+numpy
+scipy
+polars
+pydantic
