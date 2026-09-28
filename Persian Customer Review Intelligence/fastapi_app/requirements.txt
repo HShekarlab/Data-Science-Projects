@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+joblib
+scikit-learn
+hazm
+pydantic
+requests
